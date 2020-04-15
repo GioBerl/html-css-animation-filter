@@ -117,11 +117,6 @@
 }
 
 @keyframes giro-tondo {
-    0% {
-        left: 10%;
-        top: -10px;
-    }
-
     20% {
         left: calc(100% - 30px);
         top: -10px;
@@ -136,10 +131,6 @@
     }
     80% {
         left: -10px;
-        top: -10px;
-    }
-    100% {
-        left: 10%;
         top: -10px;
     }
 }
@@ -149,11 +140,6 @@
 }
 
 @keyframes tondo-giro {
-    0% {
-        right: 10%;
-        bottom: -10px;
-    }
-
     20% {
         right: calc(100% - 30px);
         bottom: -10px;
@@ -168,10 +154,6 @@
     }
     80% {
         right: -10px;
-        bottom: -10px;
-    }
-    100% {
-        right: 10%;
         bottom: -10px;
     }
 }

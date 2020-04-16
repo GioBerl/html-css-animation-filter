@@ -141,11 +141,11 @@
 
 @keyframes tondo-giro {
     20% {
-        right: calc(100% - 30px);
+        right: calc(100% - 50px);
         bottom: -10px;
     }
     40% {
-        right: calc(100% - 30px);
+        right: calc(100% - 50px);
         bottom: 100%;
     }
     60% {
